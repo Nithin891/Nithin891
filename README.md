@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nithin891
+- 👋 Hi, I’m @nithin_prakash91
 - 👀 I’m interested in coding and data analysis
 - 🌱 I’m currently learning Google analytics and R programming
 - 💞️ I’m looking to collaborate on healthcare projects
